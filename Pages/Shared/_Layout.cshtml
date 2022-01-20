@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+@{
+    DateTime currentDateTime = DateTime.Now;
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="css/main.css" />
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <header>
+        <div id="imgDiv">
+            <img src="/img/aspnet.png" alt="ASP.NET Logotype" />
+        </div>
+        <div id="dateDiv">
+            Todays Date: @currentDateTime
+        </div>
+    </header>
+    <div id="container">
+        <nav id="mainNav">
+            <ul>
+                <li>
+                    <a href="/">
+                        Home
+                    </a>
+                </li>
+                <li>
+                    <a href="/Razor">
+                        Razor
+                    </a>
+                </li>
+                <li>
+                    <a href="/About">
+                        About
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <main>
+            @RenderBody()
+        </main>
+    </div>
+    <footer>
+        <p>By Anton Högström - Contact me at : <a href="mailto:antonhogstrom1994@gmail.com">antonhogstrom1994@gmail.com</a></p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
+

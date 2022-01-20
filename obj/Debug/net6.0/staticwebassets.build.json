@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "5j86XojMOnLwEL/XOjxhb+ebdj2wZYNsbzoFTviZQjo=",
+  "Source": "ASP_MOM1.2",
+  "BasePath": "_content/ASP_MOM1.2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP_MOM1.2/wwwroot",
+      "Source": "ASP_MOM1.2",
+      "ContentRoot": "/Users/Anton/Projects/ASP_MOM1.2/ASP_MOM1.2/wwwroot/",
+      "BasePath": "_content/ASP_MOM1.2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/Anton/Projects/ASP_MOM1.2/ASP_MOM1.2/wwwroot/css/main.css",
+      "SourceId": "ASP_MOM1.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Anton/Projects/ASP_MOM1.2/ASP_MOM1.2/wwwroot/",
+      "BasePath": "_content/ASP_MOM1.2",
+      "RelativePath": "css/main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/main.css"
+    },
+    {
+      "Identity": "/Users/Anton/Projects/ASP_MOM1.2/ASP_MOM1.2/wwwroot/img/anton.jpg",
+      "SourceId": "ASP_MOM1.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Anton/Projects/ASP_MOM1.2/ASP_MOM1.2/wwwroot/",
+      "BasePath": "_content/ASP_MOM1.2",
+      "RelativePath": "img/anton.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/anton.jpg"
+    },
+    {
+      "Identity": "/Users/Anton/Projects/ASP_MOM1.2/ASP_MOM1.2/wwwroot/img/aspnet.png",
+      "SourceId": "ASP_MOM1.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Anton/Projects/ASP_MOM1.2/ASP_MOM1.2/wwwroot/",
+      "BasePath": "_content/ASP_MOM1.2",
+      "RelativePath": "img/aspnet.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/aspnet.png"
+    },
+    {
+      "Identity": "/Users/Anton/Projects/ASP_MOM1.2/ASP_MOM1.2/wwwroot/js/main.js",
+      "SourceId": "ASP_MOM1.2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Anton/Projects/ASP_MOM1.2/ASP_MOM1.2/wwwroot/",
+      "BasePath": "_content/ASP_MOM1.2",
+      "RelativePath": "js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/main.js"
+    }
+  ]
+}
